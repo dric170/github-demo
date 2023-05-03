@@ -1,1 +1,7 @@
 Test Git Quick Start demo
+
+
+Sur PTV_APPL, PTV_FCPC et PROJ_VERIF_136
+Prise en compte relecture QA AUSY
+Prise en compte relecture Tech Airbus
+Prise en compte relecture QA Airbus
