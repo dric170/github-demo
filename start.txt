@@ -5,3 +5,19 @@ Sur PTV_APPL, PTV_FCPC et PROJ_VERIF_136
 Prise en compte relecture QA AUSY
 Prise en compte relecture Tech Airbus
 Prise en compte relecture QA Airbus
+
+RAF:
+Sur PTV_APPL, PTV_FCPC et PROJ_VERIF_136
+Prise en compte relecture QA AUSY
+Prise en compte relecture Tech Airbus
+Prise en compte relecture QA Airbus
+
+Impact : CPU SEC 350 / 380
+
+Connection au PC système et au PC analyseur:
+		Login: sh-indus-seca350
+		MdP: Ces053a_pwd_18
+
+Connection PC Alix :
+Login: spxxx / toxxx / ngxxx
+		MdP: UNIX password
